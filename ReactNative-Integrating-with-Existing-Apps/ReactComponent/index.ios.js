@@ -9,7 +9,7 @@ var {
 var styles = React.StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: 'red'
+    backgroundColor: 'yellow'
   }
 });
 
@@ -17,7 +17,7 @@ class Demo extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>This is a simple application.</Text>
+        <Text>This is a simple application.ReactNative-Integrating-with-Existing-AppsReactNative-Integrating-with-Existing-AppsReactNative-Integrating-with-Existing-AppsReactNative-Integrating-with-Existing-AppsReactNative-Integrating-with-Existing-AppsReactNative-Integrating-with-Existing-AppsReactNative-Integrating-with-Existing-Apps</Text>
       </View>
     )
   }
