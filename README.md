@@ -47,4 +47,4 @@ ReactNative-Integrating-with-Existing-Apps
 
 4.run工程:
 
-![](ReactNative-Integrating-with-Existing-Apps/Simulator.png)
+![](./ReactNative-Integrating-with-Existing-Apps/Simulator.png)
